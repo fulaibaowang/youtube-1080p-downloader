@@ -13,3 +13,10 @@ usage:
 ```
 python  youtube_download.py https://www.youtube.com/watch?v=5u94P5gOixI
 ```
+
+requirements:
+```
+pip install yt-dlp
+```
+
+FFmpeg on win11: https://github.com/BtbN/FFmpeg-Builds/releases
