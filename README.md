@@ -20,3 +20,8 @@ pip install yt-dlp
 ```
 
 FFmpeg on win11: https://github.com/BtbN/FFmpeg-Builds/releases
+
+To solve error message yt-dlp HTTP Error 403: Forbidden, often you need to upgrade yt-dlp.
+```
+pip install --upgrade yt-dlp
+```
